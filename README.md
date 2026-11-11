@@ -11,7 +11,7 @@ So it will be 5 Superlab with various topology and configuration thats needed.
 ---
 
 ## Objectives
-  * Showing Superlab documentation of CCNA Superlab from topology and configuration bases on real case.
+  * Showing Superlab documentation of CCNA Superlab from topology and configuration.
   * Streghten practical skill of CCNA.
   * Building a professional portofolio.
 
