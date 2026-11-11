@@ -1,10 +1,10 @@
-# KitTempurSuperlabCCNA-Documentation
+# 10_Superlab_CCNA-Documentation
 
 ## Overview
 
 Welcome to my CCNA Superlab documentation
 
-This repository documents my book of CCNA Superlab, from topology bases on real case and configuration of cisco devices.
+This repository documents my practice of CCNA Superlab, from topology bases on real case and configuration of cisco devices.
 
 So it will be 10 Superlab with various topology and configuration thats needed.
 
