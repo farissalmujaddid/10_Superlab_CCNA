@@ -1,12 +1,12 @@
-# 10_Superlab_CCNA
+# Superlab_CCNA
 
 ## Overview
 
 Welcome to my CCNA Superlab documentation
 
-This repository documents my practice of CCNA Superlab, from topology bases on real case and configuration of cisco devices.
+This repository documents my practice of CCNA Superlab, from topology and configuration of cisco devices.
 
-So it will be 10 Superlab with various topology and configuration thats needed.
+So it will be 5 Superlab with various topology and configuration thats needed.
 
 ---
 
