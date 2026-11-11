@@ -1,4 +1,4 @@
-# 10_Superlab_CCNA-Documentation
+# 10_Superlab_CCNA
 
 ## Overview
 
